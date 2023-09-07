@@ -1,3 +1,4 @@
-- Repository untuk menyimpan projek belajar untuk kedepanya
+- Repo untuk menyimpan projek belajar untuk kedepanya
 - Menyimpan semua hal yang berhubungan dengan belajar programing
 - Repo untuk coba-coba
+ 
